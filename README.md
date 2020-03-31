@@ -9,7 +9,7 @@
 # PowerShell Self Service Web Portal at www.au2mator.com/PowerShell
 
 # Description: 
-Get a list of Users, where the PAsswird will expire soon
+Get a list of Users, where the Password will expire soon
 
 # Version 1.0 - RTM
 
