@@ -6,6 +6,9 @@
 #Version: 1.0                                          #
 #Short Description:                                    #
 #Doc: http://www.techguy.at/tag/getpwexpirefromad/     #
+#
+# PowerShell Self Service Web Portal at www.au2mator.com/PowerShell
+#
 ########################################################
 #www.techguy.at                                        #
 #www.facebook.com/TechguyAT                            #
